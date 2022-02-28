@@ -1,0 +1,118 @@
+[
+	{
+		"sr_no" : "01",
+		"currency" : "20 °C",
+		"market_cap" : "20.5 BAR",
+		"price" : "20.5 BAR",
+		"volume" : "00:20:10",
+		"change" : "+ 10.86%",
+		"more" : "Visualizar",
+		"expand" : true,
+	   "weekly" : {
+	      "chartLabel" : [
+	        "Sunday", "Monday", "Tuesday","Wednesday", "Thursday","Friday","Saturday"
+	      ],
+	      "chartData" : [
+	         {
+	           "data": [60, 25, 150, 60, 100, 5, 60],
+	           "label":"Progress"
+	         }
+	      ] 
+	   },
+	   "monthly" : {
+	      "chartLabel" : [
+	      	"January", "February", "March", "April","May", "June","July"
+	      ],
+	      "chartData" : [
+	         {
+	           "data": [10, 65, 40, 150, 40, 85, 30],
+	           "label":"Progress"
+	         }
+	      ] 
+	   }
+	},
+	{
+		"sr_no" : "02",
+		"currency" : "20 °C",
+		"market_cap" : "20.5 BAR",
+		"price" : "20.5 BAR",
+		"volume" : "00:20:10",
+		"change" : "+ 10.86%",
+		"more" : "Visualizar",
+     "yearly" : {
+	      "chartLabel" : [
+	         "2011", "2012", "2013", "2014", "2015","2016","2017"
+	      ],
+	      "chartData" : [
+	         {
+	           "data": [60, 5, 100, 60, 150, 25, 60],
+	           "label":"Progress"
+	         }
+	      ] 
+	   },
+	   "weekly" : {
+	      "chartLabel" : [
+	        "Sunday", "Monday", "Tuesday","Wednesday", "Thursday","Friday","Saturday"
+	      ],
+	      "chartData" : [
+	         {
+	           "data": [60, 25, 150, 60, 100, 5, 60],
+	           "label":"Progress"
+	         }
+	      ] 
+	   },
+	   "monthly" : {
+	      "chartLabel" : [
+	      	"January", "February", "March", "April","May", "June","July"
+	      ],
+	      "chartData" : [
+	         {
+	           "data": [10, 65, 40, 150, 40, 85, 30],
+	           "label":"Progress"
+	         }
+	      ] 
+	   }
+	},
+	{
+		"sr_no" : "03",
+		"currency" : "20 °C",
+		"market_cap" : "20.5 BAR",
+		"price" : "20.5 BAR",
+		"volume" : "00:20:10",
+		"change" : "+ 10.86%",
+		"more" : "More",
+     "yearly" : {
+	      "chartLabel" : [
+	         "2011", "2012", "2013", "2014", "2015","2016","2017"
+	      ],
+	      "chartData" : [
+	         {
+	           "data": [60, 5, 100, 60, 150, 25, 60],
+	           "label":"Progress"
+	         }
+	      ] 
+	   },
+	   "weekly" : {
+	      "chartLabel" : [
+	      	"Sunday", "Monday", "Tuesday","Wednesday", "Thursday","Friday","Saturday"
+	      ],
+	      "chartData" : [
+	         {
+	           "data": [60, 25, 150, 60, 100, 5, 60],
+	           "label":"Progress"
+	         }
+	      ] 
+	   },
+	   "monthly" : {
+	      "chartLabel" : [
+	      	"January", "February", "March", "April","May", "June","July"
+	      ],
+	      "chartData" : [
+	         {
+	           "data": [10, 65, 40, 150, 40, 85, 30],
+	           "label":"Progress"
+	         }
+	      ] 
+	   }
+	}
+]
